@@ -1,0 +1,14 @@
+L
+2
+4
+//start in room 1 and no solution
+//castle room 0
+(0,0,1,.)
+(0,0,1,S)
+(0,1,0,.)
+(0,3,0,#)
+(0,3,2,1)
+//castle room 1
+(1,1,0,C)
+(1,2,1,!)
+(1,3,0,#)

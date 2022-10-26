@@ -1,0 +1,14 @@
+M
+2
+4
+// A map with no solution - S surround by !
+//castle room 0
+..!.
+.!S!
+..!.
+#.1.
+//castle room 1
+.C..
+.0..
+.!..
+#..#

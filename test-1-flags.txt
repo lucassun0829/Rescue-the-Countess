@@ -1,0 +1,15 @@
+M
+2
+4
+//sample where using warp pipe is required - S block by invalid pipe
+//castle room 0
+#C#.
+....
+6666
+..S.
+#.2#
+//castle room 1
+....
+#...
+.!..
+#...

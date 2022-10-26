@@ -1,0 +1,10 @@
+M
+1
+4
+// A map with no solution - block by wall
+//castle room 0
+S.#C
+...#
+....
+....
+

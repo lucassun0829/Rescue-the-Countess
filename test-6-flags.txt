@@ -1,0 +1,14 @@
+M
+2
+4
+//sample where using warp pipe is required - No Solution, block by invalid pipe
+//castle room 0
+4C4.
+.4..
+...S
+#.1#
+//castle room 1
+....
+#...
+.!..
+#...
